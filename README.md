@@ -4,7 +4,7 @@ iOS Developer | Flutter | Software Engineer
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working as an iOS Developer
+ 🔭 iOS Developer at TapsNClicks
  <br>
  🌱 I’m also working on Flutter and Native Android...
  <br>
